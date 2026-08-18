@@ -1,4 +1,4 @@
-**# olcwvypw**# Free-YouTube-Autoreg-Toolkit
+# Free-YouTube-Autoreg-Toolkit
 
 ## Educational analysis tools for studying YouTube API integration, content management, and channel automation workflows.
 
